@@ -84,6 +84,26 @@ I believe security comes from **understanding systems deeply**, not just using t
 * VS Code
 * Docker (learning)
 
+
+## 🧰 Tech & Security Stack
+
+![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
+![Kali](https://img.shields.io/badge/Kali-Linux-blue?logo=kalilinux)
+![Python](https://img.shields.io/badge/Python-yellow?logo=python)
+![PHP](https://img.shields.io/badge/PHP-purple?logo=php)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+
+![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)
+![Apache](https://img.shields.io/badge/Apache-red?logo=apache)
+
+![Git](https://img.shields.io/badge/Git-orange?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
+
+![Nmap](https://img.shields.io/badge/Nmap-NetworkScanner-green)
+![Wireshark](https://img.shields.io/badge/Wireshark-PacketAnalysis-blue)
+![BurpSuite](https://img.shields.io/badge/BurpSuite-WebSecurity-orange)
+![Metasploit](https://img.shields.io/badge/Metasploit-PenTesting-blue)
+
 ---
 
 ## 🚀 Projects
